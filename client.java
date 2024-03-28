@@ -3,6 +3,7 @@
 //Changes have been made to make this program parse "MemeX.jpg" instead of "JokeX.txt" but imageIO has not been implemented yet
 //Compiles but does not properly give openable images
 import java.io.*;
+
 import java.net.*;
 import java.util.Scanner;
 public class client {
